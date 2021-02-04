@@ -1,3 +1,15 @@
+# React Tips #1 by Abdiel 🚀
+
+Ontem, durante meus estudos sobre React na Origamid, me deparei com a ideia de utilizar imagens SVG como componentes React. Achei a ideia tão sensacional que resolvi montar um snippet pra compartilhar com vocês.
+
+A principal vantagem em fazer isso é a possibilidade de passar props para o componente imagem e fazer pequenas animações sem precisar de CSS ou bibliotecas extras.
+
+Como diria meu instrutor na Kenzie Academy Brasil: esse é o pulo do gato 🐈
+
+PS: Não esqueça de rodar `yarn install` antes. 🚀🚀🚀
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
